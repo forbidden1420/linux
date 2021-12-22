@@ -9,4 +9,5 @@
 * [systemV消息队列](https://github.com/forbidden1420/linux/issues/7)
 * [posix共享内存](https://github.com/forbidden1420/linux/issues/8)
 * [mmap](https://github.com/forbidden1420/linux/issues/9)
+* [sendfile](https://github.com/forbidden1420/linux/issues/10)
 
